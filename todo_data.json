@@ -1,0 +1,18 @@
+[
+    {
+        "title": "cook",
+        "completed": true
+    },
+    {
+        "title": "sleep",
+        "completed": false
+    },
+    {
+        "title": "code",
+        "completed": false
+    },
+    {
+        "title": "going outside",
+        "completed": true
+    }
+]
